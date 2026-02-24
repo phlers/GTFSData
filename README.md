@@ -77,4 +77,5 @@ The application provides deep integration of the GTFS specification and supports
 1. **Clone Project:** Download the repository and open it in Visual Studio.
 2. **Dependencies:** NuGet packages (CsvHelper, GMap.NET, NetTopologySuite) are automatically restored during build.
 3. **Load Data:** After starting the app, select the folder containing your GTFS text files. The program will automatically load the data into memory and activate the analysis modules.
+
 Unterstützt von Gemini
